@@ -11,7 +11,7 @@
 
 👯 I’m looking to collaborate on **Projects** that provide opportunities for personal and professional growth. If you have an exciting project in mind, feel free to reach out.
 
-👨‍💻 All of my projects are available on my [Official Website ](adityaprakashsingh.official.netlify.com)
+👨‍💻 All of my projects are available on my [Official Website ](https://adiofficial.netlify.app/)
 
 📝 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/2302adityaprakash/articles)
 
