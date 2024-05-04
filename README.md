@@ -1,7 +1,9 @@
-<center>
+
 
 <h1 align="center">Hi 👋, I'm Aditya Prakash Singh</h1>
 <h3 align="center">A passionate web developer from India</h3>
+
+<span align="center">
 
 🔭 I’m currently working on **Mental Health Support Platform Project**
 
@@ -51,6 +53,5 @@
 [![](https://visitcount.itsvg.in/api?id=aditya-prakash-singh&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+</span>
 ---
-
-</center>
