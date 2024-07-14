@@ -11,13 +11,13 @@
 
 👯 I’m looking to collaborate on **Projects** that provide opportunities for personal and professional growth. If you have an exciting project in mind, feel free to reach out.
 
-👨‍💻 All of my projects are available on my [Official Website ](https://adiofficial.netlify.app/)
+👨‍💻 All of my projects are available on my [Official Website ](https://github.com/aditya-prakash-singh)
 
 📝 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/2302adityaprakash/articles)
 
 📫 How to reach me **2302adityaprakash@gmail.com**
 
-📄 Know about my experiences from my [ resume](https://flowcv.com/resume/lmp7wf5pc9)
+📄 Know about my experiences from my [ resume](https://github.com/aditya-prakash-singh)
 
 </br>
 
